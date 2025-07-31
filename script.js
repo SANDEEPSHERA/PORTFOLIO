@@ -1,4 +1,4 @@
-$(document).ready(function () {
+w$(document).ready(function () {
 
     $('#menu').click(function () {
         $(this).toggleClass('fa-times');
